@@ -1,0 +1,12 @@
+---
+layout: post-show
+title: "Show #1"
+date: 2014-04-25 16:54:46
+author: Admin
+categories:
+- shows
+img: post03.jpg
+thumb: thumb03.jpg
+---
+
+A post on a Disconomics show.

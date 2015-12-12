@@ -342,14 +342,6 @@ a:focus {
 	line-height: 30px;
 }
 
-/* clients logo */
-#cwrap {
-	background: #f7f7f7;
-	margin-top: 0px;
-	padding-top: 80px;
-	padding-bottom: 100px;
-}
-
 #cwrap h3 {
 	margin-bottom: 60px;
 }
