@@ -1,8 +1,9 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Disconomics.
+title: Disconomics
 description: "Daily grouillades"
+
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://disconomics.xyz"
@@ -27,9 +28,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: twitter
-    url: _disconomics 
+    url: https://twitter.com/_disconomics
   - title: facebook
-    url: disconomics
+    url: https://www.facebook.com/disconomics/
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: disconomics@gmail.com
