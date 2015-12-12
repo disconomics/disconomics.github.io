@@ -30,7 +30,7 @@ social:
   - title: twitter
     url: https://twitter.com/_disconomics
   - title: facebook
-    url: https://www.facebook.com/disconomics/
+    url: https://www.facebook.com/disconomics
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: disconomics@gmail.com
@@ -41,17 +41,14 @@ email: disconomics@gmail.com
 # Members information. Shown on About page.
 members:
   - name: Phil
-    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p200x200/11695771_10153492929168115_8422847272691231229_n.jpg?oh=61dd1c16dac9cf3ed39466666c0a5c8b&oe=571B2B1D
     social:
       - title: twitter
         url: https://twitter.com/phil_huot
   - name: Matt
-    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p200x200/10384448_10152518616203514_1012233720519299299_n.jpg?oh=24a6dc9e76c1b95af31021091ce29dd3&oe=56DBF7AF
     social:
       - title: twitter
         url: https://twitter.com/Matt_Caron
   - name: Étienne
-    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p200x200/12278735_10208360730644322_4587326186783396756_n.jpg?oh=2d77b092dbf2bfbdc39730bd18313bb7&oe=56E16F66 
     social:
       - title: twitter
         url:  https://twitter.com/etpinard

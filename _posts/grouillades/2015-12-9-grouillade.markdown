@@ -1,5 +1,5 @@
 ---
-layout: post-grouillades
+layout: post-grouillade
 title: "Grouillade #1"
 date: 2014-04-25 16:54:46
 author: Étienne
