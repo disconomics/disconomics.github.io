@@ -2,7 +2,7 @@
 
 # Site settings
 title: Disconomics
-description: "Weekly shows and daily grouillades"
+description: "Daily grouillades"
 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
@@ -14,13 +14,13 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#91bfdb"
-  primary_rgb: "145,191,219" # Needed in some places for the transparency effect.  
-  secondary: "#ffffff"
-  link: "#fdbf6f"
-  link_hover: "#ff7f00"
-  footer_heading: "#91bfdb"
-  footer_content: "#ffffff"
+  primary: "#00b3fe" #"#F70031" 
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
   
   
 ### CONTACT SETTINGS ###
