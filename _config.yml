@@ -1,68 +1,59 @@
-#
-# This file contains configuration flags to customize your site
-#
+### GENERAL SETTINGS ###
 
-# Name of your site (displayed in the header)
-name: Disconomics
+# Site settings
+title: Disconomics.
+description: "Daily grouillades"
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://disconomics.xyz"
 
-# Short bio or description (displayed in the header)
-description: Daily grouillades
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
-# URL of your avatar or profile pic 
-avatar: 
+colors:  #in hex code if not noted else
+  primary: "#00b3fe" #"#F70031" 
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+  
+  
+### CONTACT SETTINGS ###
 
-#
-# Flags below are optional
-#
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: twitter
+    url: _disconomics 
+  - title: facebook
+    url: disconomics
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+email: disconomics@gmail.com
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  email: disconomics@gmail.com
-  facebook: disconomics
-  twitter: _disconomics
 
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-# disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-# google_analytics:
-
-# Your website URL
-# Used for Sitemap.xml and your RSS feed
-# url:
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-# baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-markdown: redcarpet
-highlighter: pygments
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.1.0
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
-    - README.md
-    - CNAME
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Phil
+    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xfp1/v/t1.0-1/p200x200/11695771_10153492929168115_8422847272691231229_n.jpg?oh=61dd1c16dac9cf3ed39466666c0a5c8b&oe=571B2B1D
+    social:
+      - title: twitter
+        url: https://twitter.com/phil_huot
+  - name: Matt
+    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xaf1/v/t1.0-1/p200x200/10384448_10152518616203514_1012233720519299299_n.jpg?oh=24a6dc9e76c1b95af31021091ce29dd3&oe=56DBF7AF
+    social:
+      - title: twitter
+        url: https://twitter.com/Matt_Caron
+  - name: Étienne
+    img: https://scontent-yyz1-1.xx.fbcdn.net/hprofile-xpa1/v/t1.0-1/p200x200/12278735_10208360730644322_4587326186783396756_n.jpg?oh=2d77b092dbf2bfbdc39730bd18313bb7&oe=56E16F66 
+    social:
+      - title: twitter
+        url:  https://twitter.com/etpinard
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Grouillades!"
