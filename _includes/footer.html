@@ -1,11 +1,11 @@
 <div id="footerwrap">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 pull-right">
+            <div class="col-lg-1 pull-right">
                 <div class="hline-w"></div>
                 <p>
                     {% for network in site.social %}
-                        <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                        <a href="{{ network.url }}" target="_blank" class="btn-social btn-outline pull-right"><i class="fa fa-{{ network.title }}"></i></a>
                     {% endfor %}
                 </p>
             </div>
