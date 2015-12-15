@@ -105,7 +105,7 @@ a:focus {
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
-	font-size: 18px;
+	font-size: 28px;
 }
 
 .navbar-header .navbar-brand {
@@ -171,7 +171,6 @@ a:focus {
 	color: {{ site.colors.secondary }};
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
-	padding-top: 1.025rem;
 	padding-right: 2.25rem;
 	letter-spacing:0.85px;
 	padding-bottom: 1.0875rem;
