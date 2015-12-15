@@ -160,14 +160,14 @@ a:focus {
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
-	color: red;
+	color: #ffffff;
 	background-color: #222222;
 	border-color: #ffffff;
 }
 .dmbutton {
-	background:rgba(0, 0, 0, 0);
+	background: {{ site.colors.secondary }};
 	border: 1px solid #ffffff;
-	color: #ffffff;
+	color: {{ site.colors.primary }};
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	padding-top: 1.025rem;
