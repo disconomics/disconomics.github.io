@@ -6,16 +6,18 @@
         <div class="spacing"></div>
 
         {% for show in site.categories['shows'] limit:include.limit %}
-                <div class="he-wrap tpl6">
+                <div class="he-wrap tpl8">
                     <img src="{{ "/assets/img/shows/" | prepend: site.baseurl }}{{ show.img }}" alt="">
                     <div class="he-view">
                         <div class="bg a0" data-animate="fadeIn">
-                            <h3 class="a1" data-animate="fadeInDown">{{ show.title }}</h3>
+                            <h2 class="a1" data-animate="fadeInDown">{{ show.title }}</h2>
                             <a href="{{  show.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
                         </div><!-- he bg -->
                     </div><!-- he view -->
                 </div><!-- he wrap -->
         {% endfor %}
+
+        <div class="spacing"></div>
 
         </div>
     </div>
