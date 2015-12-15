@@ -6,7 +6,6 @@ author: Étienne
 categories:
 - grouillades
 img: post03.jpg
-thumb: thumb03.jpg
 ---
 
 A post on a grouillade.

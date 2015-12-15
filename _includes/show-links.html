@@ -5,7 +5,7 @@
             {% for show in site.categories['shows'] limit:include.limit %}
                 <div class="portfolio-item graphic-design">
                     <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/show/" | prepend: site.baseurl }}{{ show.img }}" alt="">
+                    <img src="{{ "/assets/img/shows/" | prepend: site.baseurl }}{{ show.img }}" alt="">
                         <div class="he-view">
                             <div class="bg a0" data-animate="fadeIn">
                                 <h3 class="a1" data-animate="fadeInDown">{{ show.title }}</h3>
