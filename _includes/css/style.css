@@ -105,6 +105,7 @@ a:focus {
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
+	font-size: 18px;
 }
 
 .navbar-header .navbar-brand {
@@ -165,9 +166,9 @@ a:focus {
 	border-color: #ffffff;
 }
 .dmbutton {
-	background: {{ site.colors.secondary }};
+	background: {{ site.colors.primary }};
 	border: 1px solid #ffffff;
-	color: {{ site.colors.primary }};
+	color: {{ site.colors.secondary }};
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	padding-top: 1.025rem;
