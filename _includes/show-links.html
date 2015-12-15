@@ -1,24 +1,22 @@
-<div id="portfoliowrap">
-    <div class="portfolio-centered">
+<div id="show-links">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 centered">
 
-        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        {% if include.title %}<h2>{{ include.title }}</h2>{% endif %}
+        <div class="spacing"></div>
 
-        <div class="recentitems portfolio">
-
-            {% for show in site.categories['shows'] limit:include.limit %}
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
+        {% for show in site.categories['shows'] limit:include.limit %}
+                <div class="he-wrap tpl6">
                     <img src="{{ "/assets/img/shows/" | prepend: site.baseurl }}{{ show.img }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">{{ show.title }}</h3>
-                                <a href="{{  show.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg -->
-                        </div><!-- he view -->
-                    </div><!-- he wrap -->
-                </div><!-- end col-12 -->
-            {% endfor %}
+                    <div class="he-view">
+                        <div class="bg a0" data-animate="fadeIn">
+                            <h3 class="a1" data-animate="fadeInDown">{{ show.title }}</h3>
+                            <a href="{{  show.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        </div><!-- he bg -->
+                    </div><!-- he view -->
+                </div><!-- he wrap -->
+        {% endfor %}
 
-        </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+        </div>
+    </div>
+</div>
