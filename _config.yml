@@ -2,7 +2,7 @@
 
 # Site settings
 title: Disconomics
-description: "Daily grouillades"
+description: "Weekly shows | Daily grouillades"
 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
