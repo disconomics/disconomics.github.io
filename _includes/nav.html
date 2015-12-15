@@ -8,9 +8,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand h3" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>
+      <a class="navbar-brand" href="{{ "/"  | prepend: site.baseurl }}">{{ site.title }}</a>
     </div>
-    <div class="navbar-collapse collapse navbar-right h4">
+    <div class="navbar-collapse collapse navbar-right">
       <ul class="nav navbar-nav">
         <li {% if page.title == "shows" %}class="active"{% endif %}><a href="{{"/shows/" | prepend: site.baseurl }}">shows</a></li>
         <li {% if page.title == "grouillades" %}class="active"{% endif %}><a href="{{"/grouillades/" | prepend: site.baseurl }}">grouillades</a></li>
