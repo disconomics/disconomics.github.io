@@ -160,7 +160,7 @@ a:focus {
 .dmbutton:hover,
 .dmbutton:active,
 .dmbutton:focus{
-	color: #ffffff;
+	color: red;
 	background-color: #222222;
 	border-color: #ffffff;
 }
