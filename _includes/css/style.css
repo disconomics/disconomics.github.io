@@ -385,7 +385,7 @@ a:focus {
 }
 
 #blue h3 {
-	color: white;
+	color: {{ site.colors.secondary }};
 	margin-left: 15px;
 }
 
