@@ -11,7 +11,10 @@ layout: default
             <!-- Blog Post  -->
             <p><img class="img-responsive" src="{{ "/assets/img/grouillades/" | prepend: site.baseurl }}{{ page.img }}"></p>
             <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
-            <p><csmall>{{ page.date | date: "%b %-d, %Y" }}. | By: {{ page.author }}</csmall></p>
+
+            <a href="http://www.youtube.com/watch?feature=player_embedded&v={{ page.youtube }}" target="_blank">
+              <img src="http://img.youtube.com/vi/{{ page.youtube }}/0.jpg" alt="{{ page.title }}" width="240" height="180" border="10" />
+            </a>
               
             {{ content }}
 

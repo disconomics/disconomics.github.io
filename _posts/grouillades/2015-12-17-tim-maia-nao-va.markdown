@@ -1,11 +1,10 @@
 ---
 layout: post-grouillade
 title: "Tim Maia - Não vá"
+youtube: "pKfCKnRWjBU"
 categories:
 - grouillades
 img: tim-maia.jpg
 ---
 
 Tim Maia at his best. The vibe starting at ~ 3:30 is beyond superb.
-
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=pKfCKnRWjBU"></iframe>
