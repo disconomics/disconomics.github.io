@@ -12,9 +12,11 @@
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img class="img-responsive" src="{{ "/assets/img/grouillades/" | prepend: site.baseurl }}{{ post.img }}">
                 </a>
-                <a href="http://www.youtube.com/watch?feature=player_embedded&v={{ page.youtube }}" target="_blank">
-                  <img class="img-responsive" src="http://img.youtube.com/vi/{{ page.youtube }}/0.jpg" alt="{{ page.title }}" />
+
+                <a href="http://www.youtube.com/watch?feature=player_embedded&v={{ post.youtube }}" target="_blank">
+                  <img class="img-responsive" src="http://img.youtube.com/vi/{{ post.youtube }}/0.jpg" alt="{{ post.title }}" />
                 </a>
+
                 <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="ctitle">{{ post.title }}</h2></a>
                 {{ post.excerpt }}
 
