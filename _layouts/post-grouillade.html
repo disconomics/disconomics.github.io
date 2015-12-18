@@ -9,15 +9,18 @@ layout: default
         <!-- SINGLE POST -->
         <div class="col-lg-8">
             <!-- Blog Post  -->
-            <p><img class="img-responsive" src="{{ "/assets/img/grouillades/" | prepend: site.baseurl }}{{ page.img }}"></p>
             <a href="{{ page.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ page.title }}</h3></a>
 
-            <a href="http://www.youtube.com/watch?feature=player_embedded&v={{ page.youtube }}" target="_blank">
-              <img src="http://img.youtube.com/vi/{{ page.youtube }}/0.jpg" alt="{{ page.title }}" width="240" height="180" border="10" />
-            </a>
-              
+            <div class="spacing"></div>
+
             {{ content }}
 
+            <div class="spacing"></div>
+
+            <a href="http://www.youtube.com/watch?feature=player_embedded&v={{ page.youtube }}" target="_blank">
+              <img class="img-responsive" src="http://img.youtube.com/vi/{{ page.youtube }}/0.jpg" alt="{{ page.title }}" width="240" height="180" border="10" />
+            </a>
+              
         </div><!--/col-lg-8 -->
 
     </div><!--/row -->
