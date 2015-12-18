@@ -2,7 +2,7 @@
 
 # Site settings
 title: disconomics
-description: "Weekly shows | Daily grouillades"
+description: "Weekly shows &nbsp;&nbsp; | &nbsp;&nbsp; Daily grouillades"
 
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
