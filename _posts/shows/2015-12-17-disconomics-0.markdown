@@ -1,8 +1,6 @@
 ---
 layout: post-show
-title: "Show #1"
-date: 2014-04-25 16:54:46
-author: Admin
+title: "Disconomics #0"
 categories:
 - shows
 img: portfolio_01.jpg
