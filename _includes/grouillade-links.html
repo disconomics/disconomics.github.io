@@ -1,24 +1,25 @@
 <div id="grouillade-links">
     <div class="row">
-        <div class="col-lg-8 col-lg-offset-2 centered">
+        <div class="col-lg-8">
 
         {% if include.title %}<h2>{{ include.title }}</h2>{% endif %}
         <div class="spacing"></div>
 
-        <! -- BLOG POSTS LIST -->
-
             {% for post in site.categories['grouillades'] limit:include.limit %}
-                <! -- Blog Post -->
-                <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="ctitle">{{ post.title }}</h2></a>
+                <div>
+                    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                    <p>{{ post.date | date: "%-d %B %Y" }}</p>
+                </div>
 
                 <div class="spacing"></div>
 
                 <a href="{{ post.url | prepend: site.baseurl }}">
-                  <img class="img-responsive" src="http://img.youtube.com/vi/{{ post.youtube }}/0.jpg" alt="{{ post.title }}" />
+                  <img width="90%" height="420" src="http://img.youtube.com/vi/{{ post.youtube }}/0.jpg" alt="{{ post.title }}" />
                 </a>
 
-                <div class="hline"></div>
                 <div class="spacing"></div>
+
+                <div class="hline"></div>
             {% endfor %}
 
         </div><! --/col-lg-8 -->
