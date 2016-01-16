@@ -1,12 +1,12 @@
 ---
 layout: post-show
-title: "Disconomics #1"
+title: "Disconomics #001"
 categories:
 - shows
 img: bowie.gif
 ---
 
-LIVE from Laurier-Ouest Disconomics #1
+LIVE from Laurier-Ouest Disconomics #001
 
 <iframe src="https://mixlr.com/users/4508998/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe>
 <small><a href="http://mixlr.com/disconomics" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">disconomics is on Mixlr</a></small>
@@ -18,3 +18,4 @@ LIVE from Laurier-Ouest Disconomics #1
 - Devo - Gut Feeling
 - Edikanfo - The Pace Setters (Brian Eno production)
 - David Bowie - Ashes to Ashes
+- T-Rex - Bang a Gong
