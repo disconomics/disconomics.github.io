@@ -1,0 +1,16 @@
+---
+layout: post-show
+title: "Disconomics #003"
+categories:
+- shows
+img: arahova.jpg
+---
+
+LIVE from Pancake Town Laurier West Disconomics #003
+
+{% include mixlr_embed.html %}
+
+**Tracklisting**
+
+- Skorkellin' - Pender Street Steppers
+-
