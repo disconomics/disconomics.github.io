@@ -6,10 +6,11 @@ categories:
 img: laurier-ouest.jpg
 ---
 
-LIVE from Pancake Town Laurier West Disconomics #002
+Disconomics #002. Recorded from Pancake Town Laurier West
 
 {% include mixlr_embed.html %}
 
 **Tracklisting**
 
 - Lonnie Liston Smith - Expansions
+- .... *mystery show* 

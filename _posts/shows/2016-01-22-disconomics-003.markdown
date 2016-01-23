@@ -6,7 +6,7 @@ categories:
 img: arahova.jpg
 ---
 
-LIVE from Pancake Town Laurier West Disconomics #003
+Disconomics #003. Recorded from Pancake Town Laurier West
 
 {% include mixlr_embed.html %}
 
