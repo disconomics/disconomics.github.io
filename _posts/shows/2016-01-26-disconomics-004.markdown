@@ -1,0 +1,15 @@
+---
+layout: post-show
+title: "Disconomics #004"
+categories:
+- shows
+img: orange-julep.jpg
+---
+
+Disconomics #004. LIVE from Pancake Town LW
+
+{% include mixlr_embed.html %}
+
+**Tracklisting**
+
+1. Good Times (Konstrument Pass)- Kon
