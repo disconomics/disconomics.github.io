@@ -13,4 +13,5 @@ Disconomics #005b. LIVE from Pancake Town LW.
 
 **Tracklisting**
 
-1. ...
+1. Ray Barretto - Pastime Paradise
+1. Beckie Bell - Music Madness (Extended Charles Maurice Version) 
