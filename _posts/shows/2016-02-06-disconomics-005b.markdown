@@ -15,3 +15,5 @@ Disconomics #005b. LIVE from Pancake Town LW.
 
 1. Ray Barretto - Pastime Paradise
 1. Beckie Bell - Music Madness (Extended Charles Maurice Version) 
+1. DeeJay Dook - Togo Disco
+1. Van McCoy & The Soul City Symphony - The Hustle ...
