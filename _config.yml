@@ -14,15 +14,15 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#ffffff" 
-  primary_rgb: "118,42,131" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#ffffff"
+  primary_rgb: "224,224,224" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#231f20"
   link: "#1b7837"
   link_hover: "#762a83"
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
-  
-  
+
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -33,13 +33,13 @@ social:
     url: https://twitter.com/_disconomics
   - title: facebook
     url: https://www.facebook.com/disconomics
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 email: disconomics@gmail.com
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 members:
   - name: Phil
@@ -54,6 +54,6 @@ members:
     social:
       - title: twitter
         url:  https://twitter.com/etpinard
-    
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Grouillades!"
