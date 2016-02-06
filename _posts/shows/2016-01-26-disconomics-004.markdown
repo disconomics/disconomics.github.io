@@ -1,5 +1,6 @@
 ---
 layout: post-show
+type: disconomics
 title: "Disconomics #004"
 number: "004"
 categories:
