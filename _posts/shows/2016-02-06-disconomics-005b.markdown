@@ -7,9 +7,7 @@ categories:
 img: super-sexe2.png
 ---
 
-Disconomics #005b. LIVE from Pancake Town LW.
-
-{% include mixlr_embed.html %}
+{% include show_live.html %}
 
 **Tracklisting**
 
@@ -20,3 +18,7 @@ Disconomics #005b. LIVE from Pancake Town LW.
 1. Sivuca - Ain't no sunshine
 1. Maskela - Ashiko
 1. Atakak = Obaa Sima
+1. Lonnie Listen Smith - Summer Days
+1. (some Vitenamese track)
+1. Rasmey Lewis Trio - The In Crowd
+1.
