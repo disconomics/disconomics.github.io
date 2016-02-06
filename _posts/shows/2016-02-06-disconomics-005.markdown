@@ -7,9 +7,9 @@ categories:
 img: super-sexe.jpg
 ---
 
-Disconomics #005. LIVE from Pancake Town LW.
+Disconomics #005. Recorded live from Pancake Town LW.
 
-{% include mixlr_embed.html %}
+{% include mixcloud_embed.html %}
 
 **Tracklisting**
 
