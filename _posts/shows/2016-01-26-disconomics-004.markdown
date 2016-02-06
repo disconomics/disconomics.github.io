@@ -1,6 +1,7 @@
 ---
 layout: post-show
 title: "Disconomics #004"
+number: "004"
 categories:
 - shows
 img: orange-julep.jpg
@@ -8,7 +9,7 @@ img: orange-julep.jpg
 
 Disconomics #004. Recorded from Pancake Town Laurier West.
 
-{% include mixlr_embed.html %}
+{% include mixcloud_embed.html %}
 
 **Tracklisting**
 
