@@ -7,7 +7,7 @@ categories:
 img: super-sexe2.png
 ---
 
-{% include show_live.html %}
+{% include show_archive.html %}
 
 **Tracklisting**
 
@@ -20,5 +20,6 @@ img: super-sexe2.png
 1. Atakak = Obaa Sima
 1. Lonnie Listen Smith - Summer Days
 1. (some Vitenamese track)
-1. Rasmey Lewis Trio - The In Crowd
-1.
+1. Rasmey Lewis T.rio - The In Crowd
+1. Lester Phillips - Use Me
+1. Jimmy McGriff - The Worm
