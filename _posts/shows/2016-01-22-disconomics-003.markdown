@@ -1,6 +1,7 @@
 ---
 layout: post-show
 title: "Disconomics #003"
+number: "003"
 categories:
 - shows
 img: arahova.jpg
@@ -8,7 +9,7 @@ img: arahova.jpg
 
 Disconomics #003. Recorded from Pancake Town Laurier West
 
-{% include mixlr_embed.html %}
+{% include mixcloud_embed.html %}
 
 **Tracklisting**
 
