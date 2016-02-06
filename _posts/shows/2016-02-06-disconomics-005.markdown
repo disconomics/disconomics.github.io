@@ -1,0 +1,18 @@
+---
+layout: post-show
+title: "Disconomics #005"
+number: "005"
+categories:
+- shows
+img: super-sexe.jpg
+---
+
+Disconomics #005. LIVE from Pancake Town LW.
+
+{% include mixlr_embed.html %}
+
+**Tracklisting**
+
+1. Soichi Terada & Shinichiro Yokota - Shake Yours 
+1. Ramsey Lewis featuring Earth, Wind & Fire - Sun Goddess
+1. Peeny Goodwin - Too soon you're old
