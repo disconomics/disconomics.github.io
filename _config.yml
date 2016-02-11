@@ -54,6 +54,14 @@ members:
     social:
       - title: twitter
         url:  https://twitter.com/etpinard
+  - name: Joce
+    social:
+      - title: twitter
+  - name: Mischanomics
+    social:
+      - title: twitter
+        url:  https://twitter.com/mischayoung
+
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Grouillades!"

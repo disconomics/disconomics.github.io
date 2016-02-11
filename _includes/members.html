@@ -1,18 +1,17 @@
 <div class="container mtb">
+    <h3 class="mb">team</h3>
+
     <div class="row centered">
-        <h3 class="mb">TEAM</h3>
-        
         {% for member in site.members %}
-        <div class="col-lg-3 col-md-3 col-sm-3">
+        <div class="col-lg-2">
             <h4>{{ member.name }}</h4>
             <h5 class="ctitle">{{ member.position }}</h5>
             {% for entry in member.social %}
-                <p>{{ entry.title }}</p>
-                <p>{{ entry.url }}</p>
+                <p><a href="{{ entry.url }}">{{ entry.title }}</a></p>
             {% endfor %}
             <div class="hline"></div>
-        </div><! --/col-lg-3 -->	 	
+        </div>
         {% endfor %}
-        
-    </div><! --/row -->
-</div><! --/container -->
+    </div>
+
+</div>
