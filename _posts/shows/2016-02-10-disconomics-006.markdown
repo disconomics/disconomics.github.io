@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "006"
+title: "Disconomics #006"
+categories:
+- shows
+img: balattou.jpg
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1. ...
