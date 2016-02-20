@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "007"
+title: "Disconomics #007"
+categories:
+- shows
+img: cones.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.  ...
