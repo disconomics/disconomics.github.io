@@ -7,7 +7,7 @@ categories:
 img: dj-sur-glace.png
 ---
 
-{% include show_archive.html %}
+{% include show_live.html %}
 
 **Tracklisting**
 
