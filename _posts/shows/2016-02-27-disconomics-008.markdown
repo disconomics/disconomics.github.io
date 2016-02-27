@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "008"
+title: "Disconomics #008"
+categories:
+- shows
+img: dj-sur-glace.png
+---
+
+{% include show_archive.html %}
+
+**Tracklisting**
+
+
