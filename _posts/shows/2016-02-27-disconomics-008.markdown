@@ -4,7 +4,7 @@ number: "008"
 title: "Disconomics #008"
 categories:
 - shows
-img: dj-sur-glace.png
+img: dj-sur-glace.jpg
 ---
 
 {% include show_live.html %}
