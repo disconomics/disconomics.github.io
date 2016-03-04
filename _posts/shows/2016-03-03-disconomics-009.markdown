@@ -7,7 +7,7 @@ categories:
 img: mischanomics.jpg
 ---
 
-{% include show_live.html %}
+Secret show. Not archived.
 
 **Tracklisting**
 
@@ -20,4 +20,5 @@ img: mischanomics.jpg
 1. Titanic - Ricochet
 1. Charles Earland - Happy Cause I'm Going Home
 1. Aquarian Dream - Look Ahead
-1. Aquarian Dream - Fantasy
+1. Aquarian Dream - Fantasy 
+1. Cassiano - Onda
