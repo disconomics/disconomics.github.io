@@ -1,0 +1,13 @@
+---
+layout: post-show
+number: "009"
+title: "Disconomics #008"
+categories:
+- shows
+img: mischanomics.jpg
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
