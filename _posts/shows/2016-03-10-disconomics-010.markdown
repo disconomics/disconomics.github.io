@@ -1,0 +1,15 @@
+---
+layout: post-show
+number: "010"
+title: "Disconomics #010"
+categories:
+- shows
+img: prince.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.
+1. Warm Priority by Project Pablo
