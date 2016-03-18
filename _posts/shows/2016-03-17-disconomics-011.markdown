@@ -17,4 +17,5 @@ img: apu.png
 1. Kenton Slash Demon - Skydancer I
 1. Reggie Snow - 1992
 1. Madvillain - Raid
-1. America Latina - Osmar Milito
+1. Osmar Milito - America Latina
+1. Grant Green - Ain't It Funky Now
