@@ -14,7 +14,7 @@ img: apu.png
 1. Al Zanders - I Don't Want You To Judge
 1. Leon Vynehall - Saxony 
 1. Neneh Cherry & Four Tet - Nina
-1. Kenton Slash Demon - Skydancer I
+1. <strike>Kenton Slash Demon - Skydancer I</strike>
 1. Reggie Snow - 1992
 1. Madvillain - Raid
 1. Osmar Milito - America Latina
