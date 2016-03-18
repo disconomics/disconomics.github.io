@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "011"
+title: "Disconomics #011"
+categories:
+- shows
+img: apu.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1. Al Zanders - I Don't Want You To Judge
