@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "012"
+title: "Disconomics #012"
+categories:
+- shows
+img: ravigote.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.
