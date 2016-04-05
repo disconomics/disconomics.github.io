@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "013"
+title: "Disconomics #013"
+categories:
+- shows
+img: carmoni.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1. 
