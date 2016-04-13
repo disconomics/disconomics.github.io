@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "014"
+title: "Disconomics #014"
+categories:
+- shows
+img: vespa.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1
