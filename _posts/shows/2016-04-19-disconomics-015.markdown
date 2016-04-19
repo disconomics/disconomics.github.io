@@ -1,0 +1,15 @@
+---
+layout: post-show
+number: "015"
+title: "Disconomics #015"
+location: "Château Esplanade (aka Disco Château)"
+categories:
+- shows
+img: jet-setter.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.  ...
