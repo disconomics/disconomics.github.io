@@ -18,3 +18,4 @@ img: salsatheque.png
 1. Lafayette Afro Rock Band - Hihache
 1. Rob - Make it Fast Make it Slow
 1. Orchestre Poly-Rythmo de Cotonou - Djanfa Magni
+1. Mulatu Astatke - Yekermo Sew
