@@ -22,3 +22,4 @@ img: salsatheque.png
 1. Andrew Ashong - Special
 1. Tyler, The Creator - PERFECT Featuring Kali Uchis And Austin Feinstein
 1. Little Dragon - Constant Surprises 
+1. Erika Badu - Soldier
