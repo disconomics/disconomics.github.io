@@ -17,3 +17,4 @@ img: salsatheque.png
 1. Segun Damisa & The Afro Beat Crusaders - Suffer Dey
 1. Lafayette Afro Rock Band - Hihache
 1. Rob - Make it Fast Make it Slow
+1. Orchestre Poly-Rythmo de Cotonou - Djanfa Magni
