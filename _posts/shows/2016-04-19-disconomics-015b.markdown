@@ -19,3 +19,6 @@ img: salsatheque.png
 1. Rob - Make it Fast Make it Slow
 1. Orchestre Poly-Rythmo de Cotonou - Djanfa Magni
 1. Mulatu Astatke - Yekermo Sew
+1. Andrew Ashong - Special
+1. Tyler, The Creator - PERFECT Featuring Kali Uchis And Austin Feinstein
+1. Little Dragon - Constant Surprises 
