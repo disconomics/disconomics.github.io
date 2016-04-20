@@ -15,4 +15,4 @@ img: salsatheque.png
 1. Contours - Eyes Down
 1. Moko Le Dzen - The Jagger Botchway Group
 1. Segun Damisa & The Afro Beat Crusaders - Suffer Dey
-
+1. Lafayette Afro Rock Band - Hihache
