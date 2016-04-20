@@ -24,3 +24,4 @@ img: salsatheque.png
 1. Little Dragon - Constant Surprises 
 1. Erika Badu - Soldier
 1. Eman X Vlooper avec Modlee - Back to Me
+1. Gang Starr - Moment of Truth
