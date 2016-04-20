@@ -25,3 +25,4 @@ img: salsatheque.png
 1. Erika Badu - Soldier
 1. Eman X Vlooper avec Modlee - Back to Me
 1. Gang Starr - Moment of Truth
+1. D'Angelo - Left & Right
