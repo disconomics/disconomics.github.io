@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "016"
+title: "Disconomics #016"
+categories:
+- shows
+img: prince-rip.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.  
