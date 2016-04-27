@@ -7,7 +7,7 @@ categories:
 img: prince-rip.png
 ---
 
-{% include show_live.html %}
+{% include show_archive.html %}
 
 **Tracklisting**
 
