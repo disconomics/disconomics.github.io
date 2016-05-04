@@ -2,6 +2,7 @@
 layout: post-show
 number: "017"
 title: "Disconomics #017"
+location: "Château Esplanade (aka Disco Château)"
 categories:
 - shows
 img: dirty-soph.jpg
