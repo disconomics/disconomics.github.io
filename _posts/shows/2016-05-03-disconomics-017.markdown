@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "017"
+title: "Disconomics #017"
+categories:
+- shows
+img: dirty-soph.jpg
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1. 
