@@ -1,0 +1,14 @@
+---
+layout: post-show
+number: "018"
+title: "Disconomics #018"
+categories:
+- shows
+img: phil.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1.
