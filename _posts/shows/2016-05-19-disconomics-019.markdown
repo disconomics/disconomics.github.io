@@ -1,0 +1,15 @@
+---
+layout: post-show
+number: "019"
+title: "Disconomics #019"
+location: "Château Esplanade (aka Disco Château)"
+categories:
+- shows
+img: 19th-hole.png
+---
+
+{% include show_live.html %}
+
+**Tracklisting**
+
+1. ...
