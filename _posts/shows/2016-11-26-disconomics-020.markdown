@@ -1,0 +1,27 @@
+---
+layout: post-show
+number: "020"
+title: "Disconomics #020"
+location: "Casa Spadina"
+categories:
+- shows
+img: torontoes.png
+---
+
+{% include show_archive.html %}
+
+**Tracklisting**
+
+1. ??
+1. Roy Ayers - Everybody Loves The Sunshine
+1. Volga Nehri (Turkish Disco Folk)
+1. Boule Noire - Aimer d'amour
+1. Tee Mac – Nam Myoho Renge Kyo
+1. ??
+1. Jump Source - All My Love is "Free"
+1. Leon Vynehall - ??
+1. Igor Jadranin - Don't Think About It (Igor Jadranin Edit)
+1. ??
+1. EKO - Bowa’a Mba Ngèbè
+1. The Duncans - Too Damn Hot
+1. Gwen McCrae - Keep The Fire Burning
